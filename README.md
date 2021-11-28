@@ -11,8 +11,11 @@
 - 網頁排版會根據使用者的螢幕大小而有不同呈現方式。
 
 ## 專案畫面截圖
-![image](./mobile.png)
-![image](./web.png)
+- 手機版畫面呈現：
+<img src="./mobile.png" alt="cover" width="45%"> 
+
+- 電腦版畫面呈現：
+<img src="./web.png" alt="cover" width="45%"> 
 
 ## 開發環境
 
